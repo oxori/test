@@ -1,1 +1,2 @@
-print("eeee")
+name='Carol'
+age=3000
